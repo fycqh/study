@@ -3,5 +3,4 @@
 echo 'chenqionghe';
 
 
-echo 'youshijie chenqionghe';
 
