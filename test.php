@@ -2,3 +2,5 @@
 
 
 echo 'test.php';
+
+echo 'test';
